@@ -1,18 +1,18 @@
 //
-//  ProfileSummary.swift
-//  Landmarks
+//  LandmarkSettings.swift
+//  MacLandmarks
 //
-//  Created by student on 19/04/24.
+//  Created by student on 02/05/24.
 //
 
 import SwiftUI
 
-struct ProfileSummary: View {
+struct LandmarkSettings: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
 #Preview {
-    ProfileSummary()
+    LandmarkSettings()
 }
